@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
