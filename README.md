@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/0355-design-twitter) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
