@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
