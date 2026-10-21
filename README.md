@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Gokulashik-M04/Leetcode_Daily_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
